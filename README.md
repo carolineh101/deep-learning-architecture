@@ -1,2 +1,6 @@
-# Building a Deep Learning Architecture to Classify Building Architecture
+# Deep Learning Architectures for Building Architecture
+
+## Description
 [IN PROGRESS] Deep learning classifier for building architecture.
+
+## Setup
