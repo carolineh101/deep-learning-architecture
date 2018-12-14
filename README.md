@@ -29,12 +29,15 @@ This notebook uses transfer learning to classify images of buildings by architec
 This notebook generates images of buildings conditioned on architecture styles using a conditional GAN.
 
 **Results after 20 epochs:**
+
 ![cDCGAN results](images/cDCGAN_epoch_20.png)
 
 Our most successful generated image is this example of **Ancient Egyptian architecture**, which is visibly a pyramid:
+
 ![Generated Egyptian Pyramid](images/cDCGAN_ancient_egyptian.png)
 
 However, most of our images, including this example of **American Craftsman architecture**, fall short of the mark.
+
 ![Generated American Craftsman](images/cDCGAN_american_craftsman.png)
 
 
