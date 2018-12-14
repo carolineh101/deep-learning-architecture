@@ -2,7 +2,7 @@
 
 **Title:** Building Deep Learning Architectures to Understand Building Architecture Styles
 
-**Authors:** Caroline Ho & Cole Thomson {cho19, colet}@stanford.edu
+**Authors:** Caroline Ho & Cole Thomson `{cho19, colet}@stanford.edu`
 
 **Course:** CS 230 – Deep Learning
 
