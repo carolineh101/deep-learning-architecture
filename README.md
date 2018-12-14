@@ -36,7 +36,7 @@ Our most successful generated image is this example of **Ancient Egyptian archit
 
 ![Generated Egyptian Pyramid](images/cDCGAN_ancient_egyptian.png)
 
-However, most of our images, including this example of **American Craftsman architecture**, fall short of the mark.
+However, most of our images, including this example of **American Craftsman architecture**, are less clear. (If you look closely, you can see a blurry gabled brown roof and white walls.)
 
 ![Generated American Craftsman](images/cDCGAN_american_craftsman.png)
 
